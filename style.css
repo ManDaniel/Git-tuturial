@@ -33,7 +33,7 @@ body {
 }
 
 .circle {
-    background-color: purple;
+    background-color: rgb(128, 109, 0);
     height: 200px;
     width: 200px;
     border-radius: 100%;
